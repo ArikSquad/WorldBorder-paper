@@ -1,0 +1,7 @@
+name: WorldBorder
+version: '${project.version}'
+main: eu.mikart.worldborder.WorldBorderPlugin
+api-version: '1.21'
+author: ArikSquad
+description: A plugin that allows you to control your world borders
+folia-supported: true # should be
